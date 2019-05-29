@@ -1,0 +1,1 @@
+This submission is developed and uploaded by Aaryan Verma. In this submission, I scraped Shopclues website in which Name, Price and discount information for smartphones are scraped using shopclues_spider.py code and stored in shopclues_spider.json file.
