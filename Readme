@@ -1,1 +1,3 @@
-This submission is developed and uploaded by Aaryan Verma. In this submission, I scraped Shopclues website in which Name, Price and discount information for smartphones are scraped using shopclues_spider.py code and stored in shopclues_spider.json file.
+Link for the webiste I have used for scraping:
+
+https://www.shopclues.com/mobiles-smartphones.html?facet_brand[]=Samsung&fsrc=facet_brand&bs=2
